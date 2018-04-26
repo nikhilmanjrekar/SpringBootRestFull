@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: restclient
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: TKMAHQK
+Implementation-Vendor-Id: com.nikhil
+Build-Jdk: 1.8.0_92
+Implementation-URL: http://projects.spring.io/spring-boot/restclient/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
